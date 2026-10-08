@@ -1,3 +1,5 @@
+import account.Account;
+
 public class Client {
     private String name;
     private String password;
